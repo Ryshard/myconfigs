@@ -1,0 +1,38 @@
+{
+    "editor.renderWhitespace": "all",
+    "csscomb.preset": "~/.vscode/.csscomb.json",
+    "csscomb.formatOnSave": true,
+    "files.associations": {
+        "*.html": "liquid"
+    },
+    "editor.wordWrap": "on",
+    "html.format.endWithNewline": true,
+    "editor.formatOnSave": true,
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json"
+            ],
+            "filename": [
+                ".jshintrc",
+                ".jsbeautify"
+            ]
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html"
+        ]
+    },
+    "liquid": {
+        "extends": "html"
+    },
+    "emmet.includeLanguages": {
+        "liquid": "html"
+    },
+    "files.insertFinalNewline": true
+}
