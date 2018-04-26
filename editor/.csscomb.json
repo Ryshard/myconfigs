@@ -302,6 +302,7 @@
         "filter",
         "filter:progid:DXImageTransform.Microsoft.Alpha(Opacity",
         "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader",
+	"fill",
         "flex",
         "flex-align",
         "flex-basis",
